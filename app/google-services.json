@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580685506961",
+    "firebase_url": "https://e-lapor-3cd14.firebaseio.com",
+    "project_id": "e-lapor-3cd14",
+    "storage_bucket": "e-lapor-3cd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580685506961:android:ac963130a39ad118cdd230",
+        "android_client_info": {
+          "package_name": "elapor.application.com.elapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580685506961-aoi3kvc1a1o35qmgkavd53ann6cvt09t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elapor.application.com.elapor",
+            "certificate_hash": "a72415d2253a0522ebc67225cd9d5b17123e20fd"
+          }
+        },
+        {
+          "client_id": "580685506961-ub0ojhmfd4sq5l4dp5kmctr8l25nopst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSZ8-a4M9jutPq-RAWc14iQqDuXvoJI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580685506961-ub0ojhmfd4sq5l4dp5kmctr8l25nopst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

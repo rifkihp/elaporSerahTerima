@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6923751693eaa906708729a8d46bb7d6/support-v4-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6923751693eaa906708729a8d46bb7d6/support-v4-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6923751693eaa906708729a8d46bb7d6/support-v4-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/6923751693eaa906708729a8d46bb7d6/support-v4-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/21af5359d7eb2975d1812917bbe8eae9/support-v4-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/829a3f7480f1bbbcc983f0eecf27f863/support-v4-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/d12d8297e54055d8c8fd7bcfbdd0aaba/support-v4-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/d12d8297e54055d8c8fd7bcfbdd0aaba/support-v4-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/d12d8297e54055d8c8fd7bcfbdd0aaba/support-v4-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

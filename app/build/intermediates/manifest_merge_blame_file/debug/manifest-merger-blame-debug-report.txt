@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="elapor.application.com.elapor"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:7:5-81
+11-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:8:5-80
+12-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:9:5-65
+13-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:9:22-62
+14    <uses-permission android:name="android.permission.FLASHLIGHT" />
+14-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:10:5-69
+14-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:10:22-66
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:12:5-60
+16-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:12:19-57
+17    <uses-feature android:name="android.hardware.camera.autofocus" />
+17-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:13:5-70
+17-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:13:19-67
+18
+19    <application
+19-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:15:5-54:16
+20        android:allowBackup="true"
+20-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:17:9-35
+21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+21-->[com.android.support:support-compat:28.0.0] D:\Android\.gradle\caches\transforms-2\files-2.1\6f81025bcc413a318d3343580ec76047\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:18:9-43
+24        android:label="@string/app_name"
+24-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:19:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:21:9-52
+26        android:theme="@style/AppTheme" >
+26-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:20:9-40
+27        <activity
+27-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:23:9-33:20
+28            android:name="elapor.application.com.elapor.MainActivity"
+28-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:24:13-41
+29            android:configChanges="orientation|keyboardHidden"
+29-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:27:7-57
+30            android:label="@string/app_name"
+30-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:25:13-45
+31            android:screenOrientation="portrait" >
+31-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:26:13-49
+32            <intent-filter>
+32-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:28:13-32:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:29:17-69
+33-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:29:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:31:17-77
+35-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:31:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:35:9-40:20
+39            android:name="elapor.application.com.elapor.BuatLaporanSerahTerimaActivity"
+39-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:36:13-59
+40            android:configChanges="orientation|keyboardHidden"
+40-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:39:13-63
+41            android:label="@string/app_name"
+41-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:37:13-45
+42            android:screenOrientation="portrait" >
+42-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:38:13-49
+43        </activity>
+44        <activity
+44-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:42:9-46:20
+45            android:name="elapor.application.com.elapor.BuatLaporanPelanggaranActivity"
+45-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:42:19-65
+46            android:configChanges="orientation|keyboardHidden"
+46-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:45:13-63
+47            android:label="@string/app_name"
+47-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:43:13-45
+48            android:screenOrientation="portrait" >
+48-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:44:13-49
+49        </activity>
+50        <activity
+50-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:48:9-52:20
+51            android:name="elapor.application.com.elapor.AmbilFotoActivity"
+51-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:48:19-52
+52            android:configChanges="orientation|keyboardHidden"
+52-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:51:13-63
+53            android:label="@string/app_name"
+53-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:49:13-45
+54            android:screenOrientation="portrait" >
+54-->D:\Android\JavaAndroidStudioProjects\elapor\app\src\main\AndroidManifest.xml:50:13-49
+55        </activity>
+56    </application>
+57
+58</manifest>

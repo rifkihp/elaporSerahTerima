@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f3f4" >
+
+    <include
+      android:id="@+id/toolbar"
+      layout="@layout/toolbar_activity_add_laporan_pelanggaran"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:scrollbars="none"  >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/rect"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="16dp"
+                android:paddingBottom="10dp" >
+
+                <customfonts.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Data Pelanggar:"
+                    android:checked="false"
+                    android:textSize="@dimen/text"
+                    android:textColor="@color/Tex"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="16dp"
+                    android:paddingTop="10dp" />
+
+                <!--****NAMA****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/nama"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Nama"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:lines="1"
+                            android:inputType="textPersonName"
+                            android:id="@+id/edit_nama" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+                    
+                </LinearLayout>
+
+                <!--****ALAMAT****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/alamat"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Alamat"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:maxLines="3"
+                            android:inputType="textMultiLine"
+                            android:id="@+id/edit_alamat" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+
+                <!--****PASAL****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/pasal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Pasal"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:lines="1"
+                            android:inputType="text"
+                            android:id="@+id/edit_pasal" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+                
+                <!--****PIDANA****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/pidana"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Pidana"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:lines="1"
+                            android:inputType="text"
+                            android:id="@+id/edit_pidana" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+
+                <!--****BLOK****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/blok"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Blok"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:lines="1"
+                            android:inputType="text"
+                            android:id="@+id/edit_blok" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+
+                <!--****JENIS PELANGGARAN****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/jenis_pelanggaran"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Jenis Pelanggaran"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:maxLines="2"
+                            android:inputType="textMultiLine"
+                            android:id="@+id/edit_jenis_pelanggaran" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/rect"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="16dp"
+                android:paddingBottom="16dp">
+
+                <customfonts.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Foto Pelanggaran:"
+                    android:checked="false"
+                    android:textSize="@dimen/text"
+                    android:textColor="@color/Tex"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="16dp"
+                    android:paddingTop="10dp" />
+
+                <!--****File Foto****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <android.support.design.widget.TextInputLayout
+                            android:id="@+id/filename"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textColorHint="@color/colorhint"
+                            android:textColor="@color/colortext" >
+
+                            <customfonts.MyEditText
+                                android:textSize="@dimen/text"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="File Foto"
+                                android:textColorHint="@color/textSub"
+                                android:textColor="@color/Tex"
+                                android:background="#0000"
+                                android:padding="10dp"
+                                android:gravity="start"
+                                android:lines="1"
+                                android:inputType="none"
+                                android:enabled="false"
+                                android:id="@+id/edit_filename" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <customfonts.MyTextView
+                            android:id="@+id/upload"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="UPLOAD"
+                            android:textColor="@color/White"
+                            android:textSize="@dimen/text"
+                            android:background="@drawable/btn_red"
+                            android:paddingTop="10dp"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="20dp"
+                            android:paddingRight="20dp"
+                            android:gravity="center"
+                            android:layout_gravity="bottom" />
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+
+                <!--****Keterangan Serah terima****-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/keterangan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColorHint="@color/colorhint"
+                        android:textColor="@color/colortext" >
+
+                        <customfonts.MyEditText
+                            android:textSize="@dimen/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Keterangan"
+                            android:textColorHint="@color/textSub"
+                            android:textColor="@color/Tex"
+                            android:background="#0000"
+                            android:padding="10dp"
+                            android:gravity="start"
+                            android:maxLines="4"
+                            android:inputType="textMultiLine"
+                            android:id="@+id/edit_keterangan" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colordevider"/>
+
+                </LinearLayout>
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/rect"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="16dp"
+                android:paddingBottom="10dp" >
+
+                <customfonts.MyTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Simpan Laporan Sebagai: "
+                    android:checked="false"
+                    android:textSize="@dimen/text"
+                    android:textColor="@color/Tex"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="16dp"
+                    android:paddingTop="10dp" />
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/radioGroupSimpanSebagai"
+                    android:orientation="horizontal"
+                    android:paddingLeft="16dp">
+
+                    <RadioButton
+                        android:id="@+id/radioSimpanSebagaiPdf"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PDF "
+                        android:checked="true"
+                        android:textSize="@dimen/text"
+                        android:textColor="@color/Tex" />
+
+                    <RadioButton
+                        android:id="@+id/radioSimpanSebagaiJpg"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="JPG "
+                        android:checked="false"
+                        android:textSize="@dimen/text"
+                        android:textColor="@color/Tex" />
+
+                </RadioGroup>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="16dp"
+                android:paddingBottom="16dp" >
+
+                <customfonts.MyTextView
+                    android:id="@+id/save"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="SIMPAN"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/text"
+                    android:background="@drawable/btn_red"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:gravity="center"
+                    android:layout_gravity="bottom"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

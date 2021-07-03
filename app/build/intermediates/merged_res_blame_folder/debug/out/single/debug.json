@@ -1,0 +1,1910 @@
+[
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_close_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\close_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checked.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bot_bar_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bot_bar_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edit.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round1.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round1.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_groupmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\groupmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_red.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ratemenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ratemenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refine.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\refine.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\f4.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_categoty.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ic_categoty.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallet.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\delete_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_disewabg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\disewabg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wishlish.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\wishlish.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_closestatusbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\closestatusbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gridviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\gridviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cross.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\cross.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_pelanggaran_item_list.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\pelanggaran_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_success.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_row_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\user1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_icon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\location_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_email.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_userdefault.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\userdefault.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\home1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_morehorizontal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\morehorizontal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_daftar_member.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\menu\\menu_daftar_member.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_visamenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\visamenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notif_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\notif_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settingsmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\settingsmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_list_background.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\drawer_list_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect1.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rect1.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map_pin_orange.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\map_pin_orange.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\send_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_histori.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_histori.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_background.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\custom_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\success_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radioblack.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\radioblack.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ongkos_kirim.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ongkos_kirim.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_giftbox.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\giftbox.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fav2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\fav2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fb.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_category.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ic_category.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wishlish.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\wishlish.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_background.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_radioblack.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\radioblack.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\user1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blankicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\blankicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fav2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\fav2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_locationpin.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\locationpin.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\home1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_pilih_gambar_dialog.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\pilih_gambar_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_categorymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\categorymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round3.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round3.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\listviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_minus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_detail_wasit.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\menu\\menu_detail_wasit.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_guard.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\guard.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_paytm_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\paytm_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_black.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\search_black.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash_line.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\dash_line.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pass.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\pass.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_btn_play.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_btn_play.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notificationbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\notificationbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_32_black.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\add_32_black.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_check.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oneside_roundrect.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\oneside_roundrect.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yes_32_white.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\yes_32_white.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_profile.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\edit_profile.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_guard.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\guard.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_cart.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_cart.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_category.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ic_category.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrowupdown.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\arrowupdown.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refine.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\refine.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recyclerbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\recyclerbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_checkout.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_checkout.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\no_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_payu_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\payu_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoppy_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\shoppy_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha_translate.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\anim\\alpha_translate.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_informasi_dialog.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\informasi_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_helpmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\helpmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticky_shadow_default.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\sticky_shadow_default.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_activity_add_laporan_serahterima.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\toolbar_activity_add_laporan_serahterima.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f0.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\f0.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_laporan_serahterima.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\activity_add_laporan_serahterima.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_paytm_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\paytm_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\menu2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wishlist_button.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\wishlist_button.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reload.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\reload.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_heartwhite.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\heartwhite.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_datepicker.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\datepicker.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_boxmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\boxmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radiogreen.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\radiogreen.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_intro.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_intro.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mywalletmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\mywalletmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_radiogreen.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\radiogreen.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_capture_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\capture_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_settingsmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\settingsmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_visamenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\visamenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fav1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\fav1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_boxmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\boxmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coupontag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\coupontag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guard.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\guard.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_lightblue.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_lightblue.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mywalletmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\mywalletmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_blue.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_confirm_red.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\confirm_red.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\menu2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_cart_notification.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\ic_menu_cart_notification.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blankicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\blankicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fail_red.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\fail_red.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_historymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\historymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download_pdf.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\download_pdf.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_listviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\listviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fav2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\fav2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_coupontag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\coupontag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_wishlist.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_wishlist.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mywalletmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\mywalletmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbarbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\toolbarbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_daftar_wasit.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\menu\\menu_daftar_wasit.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_soldout.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_soldout.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_lightgray.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_lightgray.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_more.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_received.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\message_received.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mendali_perak_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\mendali_perak_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logoutmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\logoutmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_greenonion.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_greenonion.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_changebg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\changebg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round5.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round5.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wishlish.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\wishlish.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_row_bg_hover.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_listviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\listviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_refine.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\refine.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_grosir.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_grosir.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wishlish.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\wishlish.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settingsmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\settingsmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pass.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\pass.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_round.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\button_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping_bag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_check.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_more_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\view_more_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_belibg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\belibg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fail.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\fail.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ratemenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ratemenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_homewhite.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\homewhite.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipebg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\tipebg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_helpmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\helpmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paypal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\paypal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_histori_shopping.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\histori_shopping.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallet.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_icon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\news_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoutmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\logoutmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_giftbox.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\giftbox.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_morehorizontal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\morehorizontal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\user1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_serahterima.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\fragment_serahterima.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fav1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\fav1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_registrasi.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\registrasi.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_more.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\cart_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_laporan_pelanggaran.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\activity_add_laporan_pelanggaran.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wishlistbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\wishlistbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_listviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\listviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checked.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plusminus.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\plusminus.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\heart_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pesan_singkat.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\pesan_singkat.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denda.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\denda.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round6.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round6.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_grayscale_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\heart_grayscale_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_categorymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\categorymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_strok.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_strok.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fav1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\fav1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curve_shap_down.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\curve_shap_down.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cross.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\cross.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_black.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\search_black.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_white.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\btn_white.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logoutmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\logoutmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pass.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\pass.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yes_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\yes_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_play.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_deliverypackage.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\deliverypackage.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attachment.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\attachment.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rotate.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settingsmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\settingsmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more_white.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\more_white.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_messages.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_messages.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radiogreen.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\radiogreen.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_visamenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\visamenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dijualbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\dijualbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map_markermenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\map_markermenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start_record.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\start_record.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fav2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\fav2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_map_markermenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\map_markermenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_notifikasi.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\call_notifikasi.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_activity_add_laporan_pelanggaran.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\toolbar_activity_add_laporan_pelanggaran.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_locationpin.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\locationpin.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_btn_play_pressed.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pass.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\pass.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_plus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heartwhite.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\heartwhite.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gridviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\gridviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_heartwhite.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\heartwhite.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_orange_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\heart_orange_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\close_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fail.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\fail.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chatting.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\chatting.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\close_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pause.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textarea.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\textarea.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_failed_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\failed_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_button.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_serahterima_item_list.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\serahterima_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_deliverypackage.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\deliverypackage.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locationpin.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\locationpin.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\text.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\setting_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\user1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_write_arrow.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\write_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_check.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_sent.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\message_sent.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gridviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\gridviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_red.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\success_red.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wait_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\wait_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oto.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\oto.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mywalletmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\mywalletmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shopping_bag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallet.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refine.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\refine.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_item.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\delete_item.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mendali_emas_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\mendali_emas_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_produk.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_produk.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_visamenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\visamenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payu_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\payu_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round2.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round2.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_preorder.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_preorder.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder_brown.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\folder_brown.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clothes.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\clothes.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adress.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\adress.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paytm_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\paytm_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round4.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\round4.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categoriesbg1.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\categoriesbg1.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_black.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\search_black.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_categorymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\categorymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_coupontag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\coupontag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_discountbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\discountbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ongkos_kirim.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ongkos_kirim.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_paytm_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\paytm_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_minus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_category.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_category.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_checked.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_helpmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\helpmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\anim_main_animation_controller.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\anim\\main_animation_controller.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_radioblack.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\radioblack.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_paypal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\paypal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ongkos_kirim.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ongkos_kirim.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_viewsbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\viewsbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_guard.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\guard.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectgoogle.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rectgoogle.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wallet.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectbrandbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rectbrandbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_morehorizontal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\morehorizontal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_helpmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\helpmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_openstatusbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\openstatusbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_minus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\searchbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_groupmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\groupmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_popupbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\popupbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundrect.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\roundrect.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cross.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\cross.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_row_selector.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_payu_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\payu_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\edit_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_actionstatusbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\actionstatusbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_giftbox.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\giftbox.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_map_markermenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\map_markermenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mapicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\mapicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_texview_design.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\texview_design.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_btn_pause_pressed.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\save_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\search_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\title.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bagnumberbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bagnumberbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fav1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\fav1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_change_password.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\change_password.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectfb.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rectfb.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_border.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_border.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_more.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_heartwhite.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\heartwhite.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cross.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\cross.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_grayscale.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\logo_grayscale.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_paypal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\paypal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shopping_bag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct0.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\correct0.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ratemenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ratemenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_minus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\default_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shopping_bag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_produk.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_produk.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_backgrounds.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\card_backgrounds.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_deliverypackage.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\deliverypackage.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ratemenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ratemenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_close_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\close_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sync.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\sync.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kirimpesanbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\kirimpesanbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close_32.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\close_32.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shopping_bag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner.jpg.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\banner.jpg"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_plus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_morehorizontal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\morehorizontal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_white.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_paypal.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\paypal.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notif_red.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\notif_red.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_location.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\thumb_location.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_map_markermenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\map_markermenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop_record.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\stop_record.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pelanggaran.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\fragment_pelanggaran.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_historymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\historymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\boxmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_category.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ic_category.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_boxmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\boxmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coupontag.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\coupontag.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate_camera.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\rotate_camera.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_pembayaran.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\data_pembayaran.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_msg_you.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_msg_you.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_grayscale_large.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\logo_grayscale_large.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrowupdown.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\arrowupdown.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_giftbox.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\giftbox.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_electronic.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\electronic.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mendali_perunggu_bg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\mendali_perunggu_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\menu2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_groupmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\groupmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home1.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\home1.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_historymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\historymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_delivered.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\message_delivered.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_categorymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\categorymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_plus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checked.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_deliverypackage.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\deliverypackage.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radioblack.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\radioblack.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\success.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blankicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\blankicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_animation_controller.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\anim\\splash_animation_controller.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_city_icon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\city_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cartnumberbg.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\cartnumberbg.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_groupmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\groupmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_email.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu2.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\menu2.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radiouncheked.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\radiouncheked.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_black.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\search_black.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_btn_pause.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\img_btn_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrowupdown.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\arrowupdown.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blankicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\blankicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ambil_foto.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\layout\\activity_ambil_foto.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ongkos_kirim.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\ongkos_kirim.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logoutmenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\logoutmenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fb.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_minus.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_payu_logo.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\payu_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_historymenu.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\historymenu.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\shopping.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curve_shap_up.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\curve_shap_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_read.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\message_read.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_radiogreen.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\radiogreen.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_msg_from.xml.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\bg_msg_from.xml"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power_24.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\power_24.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_locationpin.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-hdpi\\locationpin.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coins.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\coins.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning_red.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\warning_red.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrowupdown.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\arrowupdown.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wishlish.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-xhdpi\\wishlish.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gridviewicon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable-mdpi\\gridviewicon.png"
+    },
+    {
+        "merged": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_icon.png.flat",
+        "source": "D:\\Android\\JavaAndroidStudioProjects\\elapor\\app\\src\\main\\res\\drawable\\user_icon.png"
+    }
+]

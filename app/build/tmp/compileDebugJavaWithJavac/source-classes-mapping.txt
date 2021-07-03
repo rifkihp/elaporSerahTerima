@@ -1,0 +1,86 @@
+elapor/application/com/libs/DatabaseHandler.java
+ elapor.application.com.libs.DatabaseHandler
+elapor/application/com/model/version.java
+ elapor.application.com.model.version
+elapor/application/com/elapor/AmbilFotoActivity.java
+ elapor.application.com.elapor.AmbilFotoActivity
+ elapor.application.com.elapor.AmbilFotoActivity$1
+ elapor.application.com.elapor.AmbilFotoActivity$2
+ elapor.application.com.elapor.AmbilFotoActivity$3
+ elapor.application.com.elapor.AmbilFotoActivity$4
+ elapor.application.com.elapor.AmbilFotoActivity$5
+ elapor.application.com.elapor.AmbilFotoActivity$6
+ elapor.application.com.elapor.AmbilFotoActivity$SaveImageTask
+elapor/application/com/model/pelanggaran.java
+ elapor.application.com.model.pelanggaran
+elapor/application/com/model/dataitem.java
+ elapor.application.com.model.dataitem
+elapor/application/com/libs/ImageLoadingUtils.java
+ elapor.application.com.libs.ImageLoadingUtils
+elapor/application/com/libs/CommonUtilities.java
+ elapor.application.com.libs.CommonUtilities
+elapor/application/com/elapor/BuatLaporanSerahTerimaActivity.java
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$1
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$10
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$11
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$12
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$13
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$14
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$15
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$16
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$2
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$3
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$4
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$5
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$6
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$7
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$8
+ elapor.application.com.elapor.BuatLaporanSerahTerimaActivity$9
+elapor/application/com/fragment/SerahTerimaFragment.java
+ elapor.application.com.fragment.SerahTerimaFragment
+ elapor.application.com.fragment.SerahTerimaFragment$1
+elapor/application/com/elapor/BuatLaporanPelanggaranActivity.java
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$1
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$2
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$3
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$4
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$5
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$6
+elapor/application/com/model/serahterima.java
+ elapor.application.com.model.serahterima
+elapor/application/com/fragment/PelanggaranFragment.java
+ elapor.application.com.fragment.PelanggaranFragment
+ elapor.application.com.fragment.PelanggaranFragment$1
+elapor/application/com/libs/GalleryFilePath.java
+ elapor.application.com.libs.GalleryFilePath
+elapor/application/com/libs/Preview.java
+ elapor.application.com.libs.Preview
+customfonts/MyTextView.java
+ customfonts.MyTextView
+elapor/application/com/elapor/MainActivity.java
+ elapor.application.com.elapor.MainActivity
+ elapor.application.com.elapor.MainActivity$1
+ elapor.application.com.elapor.MainActivity$2
+ elapor.application.com.elapor.MainActivity$3
+ elapor.application.com.elapor.MainActivity$4
+ elapor.application.com.elapor.MainActivity$5
+ elapor.application.com.elapor.MainActivity$6
+ elapor.application.com.elapor.MainActivity$7
+customfonts/MyEditText.java
+ customfonts.MyEditText
+elapor/application/com/elapor/BuildConfig.java
+ elapor.application.com.elapor.BuildConfig
+elapor/application/com/adapter/PelanggaranAdapter.java
+ elapor.application.com.adapter.PelanggaranAdapter
+ elapor.application.com.adapter.PelanggaranAdapter$1
+ elapor.application.com.adapter.PelanggaranAdapter$2
+ elapor.application.com.adapter.PelanggaranAdapter$3
+ elapor.application.com.adapter.PelanggaranAdapter$ViewHolder
+elapor/application/com/adapter/SertahTerimaAdapter.java
+ elapor.application.com.adapter.SertahTerimaAdapter
+ elapor.application.com.adapter.SertahTerimaAdapter$1
+ elapor.application.com.adapter.SertahTerimaAdapter$2
+ elapor.application.com.adapter.SertahTerimaAdapter$3
+ elapor.application.com.adapter.SertahTerimaAdapter$ViewHolder

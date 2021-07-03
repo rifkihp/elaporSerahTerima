@@ -1,0 +1,171 @@
+<android.support.v4.widget.DrawerLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/drawer_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<!-- The main content view -->
+	<RelativeLayout
+		android:id="@+id/mainContent"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<include
+			layout="@layout/toolbar"
+			android:id="@+id/toolbar" >
+		</include>
+
+		<!-- Framelayout to display Fragments -->
+		<FrameLayout
+			android:id="@+id/frame_container"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_below="@+id/toolbar" />
+	</RelativeLayout>
+
+	<!-- The navigation drawer -->
+	<LinearLayout
+		android:id="@+id/drawerPane"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:theme="@style/ThemeOverlay.AppCompat.Dark"
+		android:layout_gravity="start"
+		android:background="@color/cattextcolour">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:layout_gravity="center"
+			android:theme="@style/ThemeOverlay.AppCompat.Dark"
+			android:background="@color/droverbackground"
+			android:paddingTop="10dp"
+			android:paddingBottom="10dp">
+
+			<ImageView
+				android:layout_width="43dp"
+				android:layout_height="43dp"
+				android:src="@drawable/menu2"
+				android:layout_gravity="left"
+				android:paddingTop="10dp"
+				android:paddingRight="10dp"
+				android:paddingBottom="10dp"
+				android:paddingLeft="10dp" />
+
+			<customfonts.MyTextView
+				android:layout_weight="1"
+				android:id="@+id/name"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="left"
+				android:layout_marginLeft="15dp"
+				android:layout_gravity="center"
+				android:textColor="@color/cattextcolour"
+				android:textSize="15dp"
+				android:text="Menu" />
+
+			<LinearLayout
+				android:id="@+id/lin_setting"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_weight="2"
+				android:layout_gravity="center"
+				android:orientation="vertical"
+				android:visibility="gone">
+
+				<ImageView
+					android:id="@+id/nav_setting"
+					android:layout_gravity="center"
+					android:layout_width="15dp"
+					android:layout_height="15dp"
+					android:src="@drawable/settingsmenu" />
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<View
+			android:layout_width="match_parent"
+			android:layout_height="1dp"
+			android:background="@color/list_divider" />
+
+		<ScrollView
+			android:id="@+id/scroll_sidemenu"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"
+			android:scrollbars="none" >
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				android:background="@color/cattextcolour" >
+
+				<LinearLayout
+					android:id="@+id/menu_serahterima"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"
+					android:padding="@dimen/menu_layoutpading" >
+
+					<ImageView
+						android:layout_weight="6"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:src="@drawable/coupontag" />
+
+					<customfonts.MyTextView
+						android:layout_weight="1"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:text="Laporan Serah Terima"
+						android:textColor="@color/category_textcolour"
+						android:textSize="@dimen/menu_text"
+						android:layout_marginLeft="@dimen/menu_textpading" />
+
+				</LinearLayout>
+
+				<View
+					android:layout_width="match_parent"
+					android:layout_height="1dp"
+					android:background="@color/list_divider" />
+
+				<LinearLayout
+					android:id="@+id/menu_pengaduan"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"
+					android:padding="@dimen/menu_layoutpading" >
+
+					<ImageView
+						android:layout_weight="6"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:src="@drawable/coupontag" />
+
+					<customfonts.MyTextView
+						android:layout_weight="1"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:text="Laporan Pelanggaran"
+						android:textColor="@color/category_textcolour"
+						android:textSize="@dimen/menu_text"
+						android:layout_marginLeft="@dimen/menu_textpading" />
+
+				</LinearLayout>
+
+				<View
+					android:layout_width="match_parent"
+					android:layout_height="1dp"
+					android:background="@color/list_divider" />
+
+			</LinearLayout>
+
+		</ScrollView>
+
+	</LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>
